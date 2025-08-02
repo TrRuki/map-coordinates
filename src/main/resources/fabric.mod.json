@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/TrRuki/map-coordinates"
 	},
 	"license": "GPL-3.0",
 	"icon": "assets/map-coordinates/icon.png",
@@ -22,7 +22,7 @@
 	"mixins": [],
 	"depends": {
 		"fabricloader": ">=0.16.14",
-		"minecraft": ">=1.21.5 <=1.21.7",
+		"minecraft": ">=1.21.5 <=1.21.8",
 		"java": ">=21",
 		"fabric-api": "*"
 	},
